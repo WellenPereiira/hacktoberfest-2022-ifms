@@ -8,4 +8,4 @@ Atualmente estou cursando o 6º e último período de informática no IFMS.
 
 # Objetivos
 
-Ter um bom desenvolvimento acadêmico e um futuro aceitável.
+Ter um bom desenvolvimento acadêmico para bom futuro.
