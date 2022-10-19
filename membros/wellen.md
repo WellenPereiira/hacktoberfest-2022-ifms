@@ -12,4 +12,4 @@ Ter um bom desenvolvimento acadêmico para futuro promissor.
 
 # Hobbies
 
-Adoro passar o meu tempo lendo, pintando ou desenhando, gosto de ter vários hobbies assim é mais difícil ficar entediada.
+Adoro passar o meu tempo lendo, pintando e/ou desenhando, gosto de ter vários hobbies assim é mais difícil ficar entediada.
